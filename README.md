@@ -1,3 +1,9 @@
+<style>
+body {
+  background-color: #e8f5e9;
+}
+</style>
+
 # むーくの訪問国 as of 2026年7月1日
 
 これまで訪問した国と地域　全８０か国
